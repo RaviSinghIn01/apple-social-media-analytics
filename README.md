@@ -6,7 +6,7 @@ data-driven decisions for improving campaign performance, engagement, and platfo
 ##Dataset used
 - <a href="https://github.com/RaviSinghIn01/apple-social-media-analytics/blob/main/Unorgainsed%20Apple%20social%20media%20data.xlsx">Dataset</a>
 
-##Tasks
+## Tasks
 Task 1: Data Preprocessing & Cleaning 
 ● Remove duplicate Apple posts. 
 ● Standardize date & platform names. 
