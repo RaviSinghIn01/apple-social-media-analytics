@@ -12,3 +12,13 @@ Task 1: Data Preprocessing & Cleaning
 ● Standardize date & platform names. 
 ● Format numeric columns (Likes, Reach, Impressions, Ad Spend). 
 ● Split hashtags 
+
+Task 2: Engagement Analysis (8 Marks) 
+● Calculate average engagement rate per platform: 
+Engagement Rate = (Likes + Shares + Comments) / Impressions  
+● Identify Top 10 Apple posts with highest engagement. 
+● Create a pivot table showing: 
+○ Total Likes, Shares, Comments by Content Type & Platform 
+○ Average Clicks per post by Hashtag 
+● Highlight top-performing hashtags such as #ShotOniPhone, #AppleEvent, 
+#iPhone16Launch, #MacBookAir. 
