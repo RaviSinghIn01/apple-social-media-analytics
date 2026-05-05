@@ -55,3 +55,6 @@ spike).
 
 ## Organised data
 - <a href="https://github.com/RaviSinghIn01/apple-social-media-analytics/blob/main/Organised%20social%20media%20data.xlsx">Dataset</a>
+
+## Dashboard
+<img width="903" height="447" alt="Dashboard" src="https://github.com/user-attachments/assets/bbd3dae0-3a5b-4b00-8aab-43cc237ed93d" />
