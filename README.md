@@ -22,3 +22,9 @@ Engagement Rate = (Likes + Shares + Comments) / Impressions
 ○ Average Clicks per post by Hashtag 
 ● Highlight top-performing hashtags such as #ShotOniPhone, #AppleEvent, 
 #iPhone16Launch, #MacBookAir. 
+
+Task 3: Platform Analysis (12 Marks) 
+● Identify the platform with highest engagement (e.g., Twitter for announcements vs. 
+YouTube for product demos). 
+● Compare follower growth rates across platforms. 
+● Visualize Engagement vs. Ad Spend per platform. 
