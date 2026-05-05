@@ -6,14 +6,14 @@ data-driven decisions for improving campaign performance, engagement, and platfo
 ##Dataset used
 - <a href="https://github.com/RaviSinghIn01/apple-social-media-analytics/blob/main/Unorgainsed%20Apple%20social%20media%20data.xlsx">Dataset</a>
 
-## Tasks
-# Task 1: Data Preprocessing & Cleaning 
+# Tasks
+## Task 1: Data Preprocessing & Cleaning 
 ● Remove duplicate Apple posts. 
 ● Standardize date & platform names. 
 ● Format numeric columns (Likes, Reach, Impressions, Ad Spend). 
 ● Split hashtags 
 
-# Task 2: Engagement Analysis  
+## Task 2: Engagement Analysis  
 ● Calculate average engagement rate per platform: 
 Engagement Rate = (Likes + Shares + Comments) / Impressions  
 ● Identify Top 10 Apple posts with highest engagement. 
@@ -23,13 +23,13 @@ Engagement Rate = (Likes + Shares + Comments) / Impressions
 ● Highlight top-performing hashtags such as #ShotOniPhone, #AppleEvent, 
 #iPhone16Launch, #MacBookAir. 
 
-# Task 3: Platform Analysis 
+## Task 3: Platform Analysis 
 ● Identify the platform with highest engagement (e.g., Twitter for announcements vs. 
 YouTube for product demos). 
 ● Compare follower growth rates across platforms. 
 ● Visualize Engagement vs. Ad Spend per platform. 
 
-# Task 4: Hashtag & Content Strategy 
+## Task 4: Hashtag & Content Strategy 
 ● Identify the most frequently used Apple hashtags. 
 ● Compare average performance of posts containing each hashtag. 
 ● Compare content performance: 
@@ -38,7 +38,7 @@ YouTube for product demos).
 ○ Carousels (feature highlights, comparisons) 
 ● Which content type performs best on each platform
 
-# Task 5: Campaign Effectiveness 
+## Task 5: Campaign Effectiveness 
 ● Calculate: 
 ○ Total & Average Impressions, Likes, Clicks per Campaign. 
 ○ Measure engagement uplift during vs. before campaigns (e.g., iPhone 16 launch 
@@ -47,7 +47,7 @@ spike).
 ○ Which campaign had the highest ROI (engagement vs. spend)? 
 ○ Which campaign drove the strongest follower growth?
 
-# Task 6: Follower Retention & Loyalty  
+## Task 6: Follower Retention & Loyalty  
 ● Visualize weekly follower growth per platform (line chart). 
 ● Identify the peak week of follower gain. 
 ● Use moving averages to smooth growth trends. 
