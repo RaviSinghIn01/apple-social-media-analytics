@@ -3,7 +3,7 @@
 Build a Social Media Intelligence Solution in Excel that consolidates Apple’s raw data into 
 actionable business insights.Your analysis should help Apple’s digital marketing team make 
 data-driven decisions for improving campaign performance, engagement, and platform strategy. 
-##Dataset used
+## Dataset used
 - <a href="https://github.com/RaviSinghIn01/apple-social-media-analytics/blob/main/Unorgainsed%20Apple%20social%20media%20data.xlsx">Dataset</a>
 
 # Tasks
@@ -52,3 +52,6 @@ spike).
 ● Identify the peak week of follower gain. 
 ● Use moving averages to smooth growth trends. 
 ● Correlate ad spend vs. follower growth using scatter plots. 
+
+## Organised data
+- <a href="https://github.com/RaviSinghIn01/apple-social-media-analytics/blob/main/Organised%20social%20media%20data.xlsx">Dataset</a>
